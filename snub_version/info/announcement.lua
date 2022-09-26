@@ -1,3 +1,3 @@
 return {
-    "We updated the SNUB Hook to the latest version. Make sure to update it."
+    "This update was the biggest update that we did. Enjoy using SNUB API."
 }

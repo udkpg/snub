@@ -1,4 +1,4 @@
 return {
 -- SNUB Version.
-    "387"
+    "388c | Parallel | Stable"
 }
